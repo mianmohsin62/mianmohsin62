@@ -179,7 +179,7 @@ fun_fact: "I debug with print statements and I'm not ashamed 😄"
 
 [![Email](https://img.shields.io/badge/Email-mohsinali.tech47%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=020024)](mailto:mohsinali@example.com)
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin_Ali-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=020024)](https://linkedin.com/in/mohsinali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin_Ali-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=020024)](https://www.linkedin.com/in/mohsin-ali-tech47/)
  
 [![GitHub](https://img.shields.io/badge/GitHub-Mohsin--Ali--Tech47-181717?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=020024)](https://github.com/Mohsin-Ali-Tech47)
 
